@@ -15,7 +15,7 @@
   <div class="chatbox-wrapper">
     <div class="message-box">
       <div class="chat response">
-        <img src="img/chatbot.jpg">
+        <img src="chatbot.jpg">
         <span>Hello there! <br> 
           How can I help you today.
         </span>
